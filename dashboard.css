@@ -135,6 +135,11 @@ th {
   font-weight: bold;
 }
 
+.budget-warning2 {
+  color: orange;
+  font-weight: bold;
+}
+
 .total {
   font-weight: bold;
   text-decoration-line: underline;
