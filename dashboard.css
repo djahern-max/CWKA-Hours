@@ -31,6 +31,9 @@ th {
   .sidebar {
     top: 5rem;
   }
+  .hide-sm{
+    display: none;
+  }
 }
 
 .sidebar-sticky {
